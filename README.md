@@ -66,4 +66,4 @@ Proyecto de clase hecho en equipo. Todos participamos en cada parte: el front-en
 
 ---
 
-Proyecto en equipo · participación de **Luis Miguel Muñoz Rendón** · [Portafolio](https://luism7p7.github.io) · [LinkedIn](https://www.linkedin.com/in/luismiguelmu%C3%B1ozrendon)
+Proyecto en equipo · copia de [luism7p7/BlackJack](https://github.com/luism7p7/BlackJack) · participación de **Alexander Mejía Ospina** · [Portafolio](https://alexanderm-code.github.io/) · [LinkedIn](https://www.linkedin.com/in/alexander-mejia-ospina)
